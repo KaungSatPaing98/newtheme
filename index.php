@@ -21,6 +21,7 @@
             <h2>Events Schedule</h2>
             <ul>
                 <li>Date: Event description</li>
+                <p>Hi, this is testing.</p>
                 <!-- Add more events and descriptions -->
             </ul>
         </section>
