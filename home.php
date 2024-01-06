@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -28,6 +29,7 @@ Template Name: Home Page
         <h2>Events Schedule</h2>
         <ul>
             <li>Date: Event description</li>
+            <p>Hi, Welcome to our website</p>
             <!-- Add more events and descriptions -->
         </ul>
     </section>
